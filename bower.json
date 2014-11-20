@@ -1,0 +1,7 @@
+{
+  "name": "facebook-activity-feed#gh-pages",
+  "private": true,
+  "dependencies": {
+    "facebook-activity-feed": "kunalnagar/facebook-activity-feed#master"
+  }
+}
